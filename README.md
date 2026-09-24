@@ -1,4 +1,6 @@
-This repo will be ported and rebuilt in rust using burn and cubecl.
+TODO: Port using CubeCL/Burn.
+CubeCL: https://github.com/tracel-ai/cubecl
+Burn: https://github.com/tracel-ai/burn
 
 
 # CSM
