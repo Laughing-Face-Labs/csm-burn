@@ -1,3 +1,6 @@
+This repo will be ported and rebuilt in rust using burn and cubecl.
+
+
 # CSM
 
 **2025/05/20** - CSM is availabile natively in [Hugging Face Transformers](https://huggingface.co/docs/transformers/main/en/model_doc/csm) 🤗 as of version `4.52.1`, more info available [in our model repo](https://huggingface.co/sesame/csm-1b)
